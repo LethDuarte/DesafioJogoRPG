@@ -1,0 +1,15 @@
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\bin\Debug\net6.0\DesafioJogoRPG.exe
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\bin\Debug\net6.0\DesafioJogoRPG.deps.json
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\bin\Debug\net6.0\DesafioJogoRPG.runtimeconfig.json
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\bin\Debug\net6.0\DesafioJogoRPG.dll
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\bin\Debug\net6.0\DesafioJogoRPG.pdb
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.csproj.AssemblyReference.cache
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.AssemblyInfoInputs.cache
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.AssemblyInfo.cs
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.dll
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\refint\DesafioJogoRPG.dll
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.pdb
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\DesafioJogoRPG.genruntimeconfig.cache
+C:\Users\lethd\OneDrive\Área de Trabalho\Pessoal\Estudos Qualificação\Programação e TI\Bootcamp Geração TECH Unimed BH - FullStack\Desafios\DesafioJogoRPG\obj\Debug\net6.0\ref\DesafioJogoRPG.dll
